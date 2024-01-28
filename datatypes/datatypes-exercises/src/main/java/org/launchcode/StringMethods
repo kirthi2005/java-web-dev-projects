@@ -1,0 +1,8 @@
+String name = "hi Hello";
+String search = "Hello";
+
+name.length();
+name.indexOf(search);
+name.contains(search);
+name.replace(search,"");
+name.toUpperCase();
